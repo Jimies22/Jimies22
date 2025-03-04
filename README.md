@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jim
+# Hi there! 👋 I'm Jimies22
 
 ## 🚀 Full Stack Developer | MERN | Laravel | Android | AI Enthusiast
 
@@ -37,7 +37,7 @@ I'm an **IT student** and a passionate **Full Stack Web Developer** with experti
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimies22&layout=compact&theme=react)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jim_Joshua_Boquil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jimies22)
 
 ---
