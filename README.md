@@ -33,12 +33,12 @@ I'm an **IT student** and a passionate **Full Stack Web Developer** with experti
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jimies22&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimies22&layout=compact&theme=react)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jimies22)
 
 ---
 🔥 **"Code, Learn, Innovate!"** 🚀
